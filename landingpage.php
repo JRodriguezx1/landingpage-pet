@@ -256,7 +256,7 @@
                                     <img src="/build/img/plan_gold.png" alt="">
                                     <div class="planes__moneda">
                                         <p class="divisa">usd</p>
-                                        <p class="valor">99</p>
+                                        <p class="valor">500000</p>
                                     </div>
                                 </div>
                                 <div class="planes__detalleplan">
@@ -277,8 +277,8 @@
                                 <div class="planes__precio">
                                     <img src="/build/img/plan_gold.png" alt="">
                                     <div class="planes__moneda">
-                                        <p class="divisa">usd</p>
-                                        <p class="valor">99</p>
+                                        <p class="divisa">Cop</p>
+                                        <p class="valor">500.000</p>
                                     </div>
                                 </div>
                                 <div class="planes__detalleplan">
