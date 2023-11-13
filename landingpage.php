@@ -29,34 +29,15 @@
     </div>
    
     <header class="header">
+        <?php include './templates/sidebarmovil.php'; ?>
         <div class="header__contenedor">
-            <div class="header__barranav">
-                <div class="header__logo">
-                    <a href="/"><img src="/build/img/logo+texto-blanco.svg" alt="petsanar"></a>
-                </div>
-                <nav class="header__nav">
-                    <a href="#veterinarios">Veterinarios</a>
-                    <a href="#planes">Planes</a>
-                    <a href="#servicios">Servicios</a>
-                </nav>
-                <div class="header__btnmenumovil">
-                    <i class="bars fa-solid fa-bars"></i>
-                </div>
-            </div>
+            <?php include './templates/header.php'; ?>
             <div class="header__contenidotext">
                 <h1 class="header__titulo">¡Bienvenido a <span>PetSanar!</span></h1>
                 <p class="header__descripcion">Donde el amor por las mascotas y la salud se unen.</p>
                 <a class="header__enlace" href="#planes">Conoce los planes</a>
             </div>
         </div>
-        <aside class="header__menumovil">
-            <nav class="header__navmovil">
-                <a href="" class="logomenumovil"><img src="/build/img/logo+texto-blanco.svg" alt="petsanar"></a>
-                <a href="#veterinarios">Veterinarios</a>
-                <a href="#planes">Planes</a>
-                <a href="#servicios">Servicios</a>
-            </nav>
-        </aside>
     </header>
 
     <section class="petsanar">

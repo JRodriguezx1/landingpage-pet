@@ -25,10 +25,13 @@
 </head>
 <body class="" id="">
     <div class="registromascota">
+        <?php include './templates/sidebarmovil.php'; ?>
         <div class="registromascota__contenedor">
-            <div class="header__logo">
+            <!--<div class="header__logo">
                 <a href="/"><img src="/build/img/logo+texto-blanco.svg" alt="petsanar"></a>
-            </div>
+            </div>-->
+            <?php include './templates/header.php'; ?>
+            
             <div class="registromascota__formularios">
                 <form class="formulario" action="/registromascota" method="POST">
                     <h4 class="registromascota__formtitulo">Informacion personal de la mascota</h4>

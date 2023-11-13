@@ -25,7 +25,9 @@
 </head>
 <body class="" id="">
     <div class="cursos">
+        <?php include './templates/sidebarmovil.php'; ?>
         <div class="cursos__contenedor">
+            <?php include './templates/header.php'; ?>
             <div class="cursos__descripciongeneral">
                 <div class="cursos__textdescripcion">
                     <h3>curso general de cuidado sobre las mascotas para la comunidad en general que tendrá los siguientes módulos como fundamentales para el buen cuidado y protección de la mascota</h3>
@@ -33,6 +35,7 @@
                 <img class="cursogato" src="/build/img/gato.png" alt="gato">
                 <img class="cursoperro" src="/build/img/perro.png" alt="perro">
             </div>
+            <div class="cursos__adquerir"><a href="/">Adquieralo Aqui</a></div>
 
             <div class="cursos__modulos">
                 <div class="swiper cursos__swiper">
