@@ -99,6 +99,18 @@
                     </div>
                     <div class="swiper-slide">
                         <div class="veterinarias__vinculada">
+                            <img class="veterinarias__miniflag" src="/build/img/miniflagmex.png" alt="">
+                            <img class="veterinarias__logo" src="/build/img/drozzmx.jpeg" alt="">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="veterinarias__vinculada">
+                            <img class="veterinarias__miniflag" src="/build/img/miniflagmex.png" alt="">
+                            <img class="veterinarias__logo" src="/build/img/petslandmx.png" alt="">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="veterinarias__vinculada">
                             <img class="veterinarias__miniflag" src="/build/img/miniflagcol.png" alt="">
                             <img class="veterinarias__logo" src="/build/img/murgivet.png" alt="">
                         </div>
