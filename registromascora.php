@@ -26,7 +26,6 @@
 <body>
 
     <?php include './templates/header.php'; ?>
-    <?php include './templates/sidebarmovil.php'; ?>
 
     <main>
         <div class="registromascota">

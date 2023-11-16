@@ -26,7 +26,6 @@
 <body>
     
     <?php include './templates/header.php'; ?>
-    <?php include './templates/sidebarmovil.php'; ?>
     
     <div class="cursos">
         <div class="cursos__contenedor">
