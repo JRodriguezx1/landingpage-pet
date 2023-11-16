@@ -21,13 +21,15 @@
     <link rel="stylesheet" href="/build/css/estilos.css">
     <link rel="icon" type="image/png" href="/build/img/logo.png"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
-
 </head>
-<body class="" id="">
+
+<body>
+    
+    <?php include './templates/header.php'; ?>
+    <?php include './templates/sidebarmovil.php'; ?>
+    
     <div class="cursos">
-        <?php include './templates/sidebarmovil.php'; ?>
         <div class="cursos__contenedor">
-            <?php include './templates/header.php'; ?>
             <div class="cursos__descripciongeneral">
                 <div class="cursos__textdescripcion">
                     <h3>curso general de cuidado sobre las mascotas para la comunidad en general que tendrá los siguientes módulos como fundamentales para el buen cuidado y protección de la mascota</h3>
